@@ -1,10 +1,5 @@
 /*
  * Shift Registor
- * http://www.rlocman.ru/shem/schematics.html?di=65110
- * http://avrproject.ru/publ/kak_podkljuchit/bascom_avr_74hc595/2-1-0-44
- * 
- * Timer
- * http://maxembedded.com/2011/06/24/avr-timers-timer0-2/
  */
 
 #include <avr/io.h>									// Main header
